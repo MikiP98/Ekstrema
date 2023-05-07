@@ -1,0 +1,2 @@
+# Ekstrema
+Ekstrema Minecraft server

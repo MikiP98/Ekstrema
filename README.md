@@ -1,4 +1,4 @@
 # Ekstrema
 
-Ekstrema Minecraft server\n
+Ekstrema Minecraft server<br>
 Seasons 1 to 4 (4 included)
